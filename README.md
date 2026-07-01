@@ -1,6 +1,3 @@
-# 💫 About Me:
-My stack: <br>    Web - TS, React;<br>    API - Python;
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aquiya@ukr.net) 
